@@ -1,0 +1,45 @@
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.exe
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.deps.json
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.runtimeconfig.json
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.dll
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\bin\Debug\net6.0\ref\Quitar emprestimo Final.dll
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.pdb
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.csproj.AssemblyReference.cache
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.AssemblyInfoInputs.cache
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.AssemblyInfo.cs
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.csproj.CoreCompileInputs.cache
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.dll
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\ref\Quitar emprestimo Final.dll
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.pdb
+D:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.genruntimeconfig.cache
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.exe
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.deps.json
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.runtimeconfig.json
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.dll
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.pdb
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.GeneratedMSBuildEditorConfig.editorconfig
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.AssemblyInfoInputs.cache
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.AssemblyInfo.cs
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.csproj.CoreCompileInputs.cache
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.dll
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\refint\Quitar emprestimo Final.dll
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.pdb
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.genruntimeconfig.cache
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\ref\Quitar emprestimo Final.dll
+F:\2° Ano ADS\Engenharia de Software\Quitar emprestimo Final\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.csproj.AssemblyReference.cache
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.exe
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.deps.json
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.runtimeconfig.json
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.dll
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\bin\Debug\net6.0\Quitar emprestimo Final.pdb
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.csproj.AssemblyReference.cache
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.AssemblyInfoInputs.cache
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.AssemblyInfo.cs
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.csproj.CoreCompileInputs.cache
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.dll
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\obj\Debug\net6.0\refint\Quitar emprestimo Final.dll
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.pdb
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\obj\Debug\net6.0\Quitar emprestimo Final.genruntimeconfig.cache
+D:\Coding - Projects\Sistema_de_Empréstimos\Quitar emprestimo Final\obj\Debug\net6.0\ref\Quitar emprestimo Final.dll

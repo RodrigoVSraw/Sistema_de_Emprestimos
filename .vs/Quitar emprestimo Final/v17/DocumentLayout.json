@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\2\u00B0 Ano ADS\\Engenharia de Software\\Quitar emprestimo Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDF5705-EDF0-4783-931D-D5F37FB9C85A}|Quitar emprestimo Final\\Quitar emprestimo Final.csproj|f:\\2\u00B0 ano ads\\engenharia de software\\quitar emprestimo final\\quitar emprestimo final\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDF5705-EDF0-4783-931D-D5F37FB9C85A}|Quitar emprestimo Final\\Quitar emprestimo Final.csproj|solutionrelative:quitar emprestimo final\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDF5705-EDF0-4783-931D-D5F37FB9C85A}|Quitar emprestimo Final\\Quitar emprestimo Final.csproj|f:\\2\u00B0 ano ads\\engenharia de software\\quitar emprestimo final\\quitar emprestimo final\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDF5705-EDF0-4783-931D-D5F37FB9C85A}|Quitar emprestimo Final\\Quitar emprestimo Final.csproj|solutionrelative:quitar emprestimo final\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDF5705-EDF0-4783-931D-D5F37FB9C85A}|Quitar emprestimo Final\\Quitar emprestimo Final.csproj|f:\\2\u00B0 ano ads\\engenharia de software\\quitar emprestimo final\\quitar emprestimo final\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDF5705-EDF0-4783-931D-D5F37FB9C85A}|Quitar emprestimo Final\\Quitar emprestimo Final.csproj|solutionrelative:quitar emprestimo final\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDF5705-EDF0-4783-931D-D5F37FB9C85A}|Quitar emprestimo Final\\Quitar emprestimo Final.csproj|f:\\2\u00B0 ano ads\\engenharia de software\\quitar emprestimo final\\quitar emprestimo final\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDF5705-EDF0-4783-931D-D5F37FB9C85A}|Quitar emprestimo Final\\Quitar emprestimo Final.csproj|solutionrelative:quitar emprestimo final\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "F:\\2\u00B0 Ano ADS\\Engenharia de Software\\Quitar emprestimo Final\\Quitar emprestimo Final\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "Quitar emprestimo Final\\Emprestimo.cs",
+              "ToolTip": "F:\\2\u00B0 Ano ADS\\Engenharia de Software\\Quitar emprestimo Final\\Quitar emprestimo Final\\Emprestimo.cs",
+              "RelativeToolTip": "Quitar emprestimo Final\\Emprestimo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:31:26.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "F:\\2\u00B0 Ano ADS\\Engenharia de Software\\Quitar emprestimo Final\\Quitar emprestimo Final\\Usuario.cs",
+              "RelativeDocumentMoniker": "Quitar emprestimo Final\\Usuario.cs",
+              "ToolTip": "F:\\2\u00B0 Ano ADS\\Engenharia de Software\\Quitar emprestimo Final\\Quitar emprestimo Final\\Usuario.cs",
+              "RelativeToolTip": "Quitar emprestimo Final\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:31:05.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "F:\\2\u00B0 Ano ADS\\Engenharia de Software\\Quitar emprestimo Final\\Quitar emprestimo Final\\Interface.cs",
+              "RelativeDocumentMoniker": "Quitar emprestimo Final\\Interface.cs",
+              "ToolTip": "F:\\2\u00B0 Ano ADS\\Engenharia de Software\\Quitar emprestimo Final\\Quitar emprestimo Final\\Interface.cs",
+              "RelativeToolTip": "Quitar emprestimo Final\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:30:47.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "F:\\2\u00B0 Ano ADS\\Engenharia de Software\\Quitar emprestimo Final\\Quitar emprestimo Final\\Sistema.cs",
+              "RelativeDocumentMoniker": "Quitar emprestimo Final\\Sistema.cs",
+              "ToolTip": "F:\\2\u00B0 Ano ADS\\Engenharia de Software\\Quitar emprestimo Final\\Quitar emprestimo Final\\Sistema.cs",
+              "RelativeToolTip": "Quitar emprestimo Final\\Sistema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T22:25:22.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
